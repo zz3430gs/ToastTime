@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">HelloGit</string>
-    <string name="button_text_name">Button</string>
+    <string name="button_text_name">Show Time</string>
 </resources>
