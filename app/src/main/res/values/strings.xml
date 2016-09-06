@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloGit</string>
+    <string name="button_text_name">Button</string>
+</resources>
